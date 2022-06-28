@@ -1,0 +1,7 @@
+{
+  "dev": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "/Users/umair/.amplify/awscloudformation/QgNRaPt9Qq"
+  }
+}
